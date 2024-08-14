@@ -1,0 +1,1 @@
+_event.setAmount(${input$final_damage});

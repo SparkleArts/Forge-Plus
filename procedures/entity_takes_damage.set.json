@@ -1,0 +1,28 @@
+{
+  "args0": [
+    {
+      "type": "input_value",
+      "name": "final_damage",
+      "check": "Number"
+    }
+  ],
+  "inputsInline": true,
+  "previousStatement": null,
+  "nextStatement": null,
+  "colour": "#606999",
+  "mcreator": {
+    "toolbox_id": "entity_takes_damage",
+    "toolbox_init": [
+      "<value name=\"final_damage\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value>"
+    ],
+    "inputs": [
+      "final_damage"
+    ],
+    "dependencies": [
+      {
+        "name": "finaldamage",
+        "type": "number"
+      }
+    ]
+  }
+}

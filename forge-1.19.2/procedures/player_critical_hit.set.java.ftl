@@ -1,0 +1,1 @@
+_event.setDamageModifier((float) ${input$damage_modifier});
