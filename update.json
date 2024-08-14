@@ -4,7 +4,8 @@
       "changes": [
         "Fixed Code of Procedure Block 'Spawn {itemstack} at Block at {x}, {y},  {z}'",
         "Fixed Dependency of Procedure Block 'Set damage multiplier to {number}'",
-        "Added Support of Update JSON URL"
+        "Added Support of Update JSON URL",
+        "Added Support of 2024.2 (not tested)"
       ]
     }
   }
