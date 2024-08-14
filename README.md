@@ -21,7 +21,7 @@ More Versions will be supported but not now!
 
  
 
-Also only the latest Plugin Version is available at MCreator. For prior Versions pls go to the link under me.
+Also only the latest Plugin Version is available at MCreator. For prior Versions pls go to the link under me or here on Github.
 
  
 
