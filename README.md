@@ -1,7 +1,7 @@
 # Forge-Plus
 Source Code of Forge Plus MCreator Plugin
 
-Welcome to my first Plugin that brings Revolution to MCreator!
+Welcome to my first Plugin that brings a new experience to MCreator!
 
 This Plugin adds following Features:
 - new Procedures
